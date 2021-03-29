@@ -10,8 +10,3 @@ class Question
     @question = "What is the total of #{@num1} plus #{@num2}? "
   end
 end
-
-# q1 = Question.new
-
-# puts q1.generate_question
-# puts q1.answer
