@@ -20,10 +20,11 @@ Task: Game will start and welcome 2 players. (players will each be granted 3 liv
 - life getter/setter
 
 ### Game
-- set current player
-- set question
+- set current player turn
+- get player answers
+- answers checking
 - looping questions
 
 ### Questions
-- get player answers
-- answers checking
+- set question
+- set answer
